@@ -6,7 +6,7 @@ Release:	0.1
 License:	GPLv3
 Group:		Development/Languages/Python
 Source0:	http://mingus.googlecode.com/files/%{module}-%{version}.tar.gz
-# Source0-md5:	
+# Source0-md5:	ef1c3a9a2b4e39806018988c62413328
 URL:		http://code.google.com/p/mingus/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
